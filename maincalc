@@ -1,0 +1,4 @@
+n1 = input('Digite n1 para a soma')
+n2 = input('Digite n2 para a soma')
+n1 = n1+n2
+print("A soma é %d" %(n1))
